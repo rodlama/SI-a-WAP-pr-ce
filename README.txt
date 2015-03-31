@@ -1,0 +1,1 @@
+Tøída která nám umožní lehèí tvoøení nadpisù, odkazù a vkládání textu. Vytvoøeno prodle školní práce na WAP a SI. Pøíklad užití se nachází v souboru: priklad_uziti.php
